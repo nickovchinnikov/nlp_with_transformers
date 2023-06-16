@@ -1,2 +1,5 @@
 distilbert-base-uncased-finetuned-emotion
 .lh
+.vscode
+typo_experiments
+test.py
